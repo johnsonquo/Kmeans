@@ -1,21 +1,21 @@
 # Kmeans
 Kmeans演算法
 
-*Model:
-    *data : 輸入資料(np.array型態)
-    *k : 選取中心數 
-    *maxIterTimes : 最大迭帶次數限制
+* Model:
+   * data : 輸入資料(np.array型態)
+   * k : 選取中心數 
+   * maxIterTimes : 最大迭帶次數限制
 
-*Method:
-    *Fit() : 開始訓練
+* Method:
+   * Fit() : 開始訓練
     
-*Attribute:
-    *classifyList : 分類結果
-    *centerList : 資料中心
+* Attribute:
+   * classifyList : 分類結果
+   * centerList : 資料中心
     
     
 
-*使用範例:
+* 使用範例:
 ```python
 from sklearn import datasets
 iris = datasets.load_iris()
