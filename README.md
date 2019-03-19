@@ -11,3 +11,4 @@ model = Kmeans(X,3)
 model.Fit()
 model.centerList
 ```
+![](https://github.com/johnsonquo/Kmeans/edit/master/pic/實作.gif)  
