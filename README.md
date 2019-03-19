@@ -17,6 +17,7 @@ Kmeans演算法
 
 * 使用範例:
 ```python
+
 from sklearn import datasets
 iris = datasets.load_iris()
 X = iris.data[:, :]  # we only take the first two features.
