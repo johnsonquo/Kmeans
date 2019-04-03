@@ -1,21 +1,6 @@
-# Kmeans
-Kmeans演算法
+# Kmeans & FCM
 
-* Model:
-   * data : 輸入資料(np.array型態)
-   * k : 選取中心數 
-   * maxIterTimes : 最大迭帶次數限制
-
-* Method:
-   * Fit() : 開始訓練
     
-* Attribute:
-   * classifyList : 分類結果
-   * centerList : 資料中心
-    
-    
-
-
 ```python
 import numpy as np
 import random
