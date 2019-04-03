@@ -277,7 +277,7 @@ for subplotPosition,i  in zip(range(311,314), range(1,4)):
     
 
 
-![png](https://github.com/johnsonquo/Kmeans/tree/master/pic//output_16_1.png)
+![png](https://raw.githubusercontent.com/johnsonquo/Kmeans/master/pic/output_16_1.png)
 
 
 **參考資料**  
